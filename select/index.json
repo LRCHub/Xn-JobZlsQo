@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "散り散り / 重音テト (Chilly / Kasane Teto)",
+  "base_artist": "読谷あかね",
+  "createdAt": "2026-03-06T05:25:51.967362Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "散り散り",
+      "artist": "読谷あかね",
+      "has_synced": false,
+      "path": "select/pl_01_散り散り_読谷あかね.txt"
+    }
+  ]
+}
